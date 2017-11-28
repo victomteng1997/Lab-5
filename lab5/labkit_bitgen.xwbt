@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/dudu/Desktop/lab5_par_solution/lab5/labkit.ncd
+OUTFILE=/home/dudu/Desktop/lab5_par_solution/lab5/labkit.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=/home/dudu/Desktop/lab5_par_solution/lab5
+LICENSE=WebPack
+USER_INFO=211398928_0_0_150
